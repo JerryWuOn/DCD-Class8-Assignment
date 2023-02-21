@@ -1,0 +1,9 @@
+.displayTwo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5em;
+    background-color: var(--background-color2);
+    height: 50em;
+}

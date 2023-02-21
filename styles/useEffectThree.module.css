@@ -1,0 +1,9 @@
+.displayThree{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5em;
+    background-color: var(--background-color3);
+    height: 50em;
+}

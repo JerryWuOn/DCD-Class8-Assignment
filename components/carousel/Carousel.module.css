@@ -1,0 +1,30 @@
+.body{
+    background-color: var(--background-color);
+}
+
+.carouselStyle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5em;
+}
+.carousel{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+    background-color: var(--background-color);
+}
+.arrowsContainer{
+    background-color: beige;
+    display: flex;
+    justify-content: space-around;
+    width: 100em;
+}
+.arrows{
+    display: flex;
+    gap:10em;
+
+}
+
